@@ -1,4 +1,4 @@
-###  Hello my friend 👋 💫 About Me:
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=276EF7&background=FFF8F400&width=435&lines=Hello+my+friend+%F0%9F%91%8B)](https://git.io/typing-svg) 👋 💫 About Me:
 I'm Mohamed Mohdy interested in computer science. I am now learning the basics and principles of computer science, data structures and algorithms using C++ and Dart programming language and problem solving on Codeforce, and then I will learn the field of Flutter development
 
 
