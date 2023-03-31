@@ -1,4 +1,4 @@
-###  Hello my friend 👋# 💫 About Me:
+###  Hello my friend 👋 💫 About Me:
 I'm Mohamed Mohdy interested in computer science. I am now learning the basics and principles of computer science, data structures and algorithms using C++ and Dart programming language and problem solving on Codeforce, and then I will learn the field of Flutter development
 
 
