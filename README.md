@@ -12,13 +12,12 @@ I'm Mohamed Mohdy interested in computer science. I am now learning the basics a
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohamedmohdy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedmohdy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmohdy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedmohdy&theme=aura_dark)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedmohdy&theme=aura_dark)<br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamedmohdy&theme=aura_dark&utcOffset=8)
+
+
+
 
 
 ![](https://github-profile-trophy.vercel.app/?username=mohamedmohdy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
